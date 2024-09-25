@@ -110,14 +110,6 @@
             <followText>1</followText>
             <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 120</b></text>
             </Tempo>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -153,38 +145,26 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>72</pitch>
+              <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
