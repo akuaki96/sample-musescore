@@ -115,8 +115,8 @@
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
-              </Note>
-            </Chord>
+            </Note>
+          </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
